@@ -1,0 +1,26 @@
+<launch>
+
+<include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="paused" value="true"/>
+    <arg name="use_sim_time" value="true"/>
+    <arg name="gui" value="true"/>
+    <arg name="headless" value="false"/>
+    <arg name="debug" value="false"/>
+</include>
+
+<node name="spawner" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/catkin_ws/src/beyblade/models/Eagle/model.sdf -sdf -x 0.0 -y 0.5 -z 1.0 -R 0.157 -model beyblade" />
+
+<node name="spawner_2" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/catkin_ws/src/beyblade/models/Eagle_round/model.sdf -sdf -x -0.5 -y 0.0 -z 1.0 -R 0.157 -model beyblade2" />
+
+<node name="spawner_3" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/catkin_ws/src/beyblade/models/Eagle_flat/model.sdf -sdf -x 0.5 -y 0.0 -z 1.0 -R 0.157 -model beyblade3" />
+
+<node name="spawner_4" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/catkin_ws/src/beyblade/models/Lion/model.sdf -sdf -x 0.0 -y -0.5 -z 1.0 -R 0.157 -model beyblade4" />
+
+<node name="spawner_5" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/catkin_ws/src/beyblade/models/Stadium/model.sdf -sdf -x 0.0 -y 0.0 -z 0.5 -model bey_stadium" />
+
+<node name="launcher" pkg="beyblade" type="launcher.py" output="screen" />
+
+<node name="bey_state" pkg="beyblade" type="state.py"/>
+<!--<node name="air_drag_exerter" pkg="beyblade" type="air_drag.py"/>-->
+
+</launch>
