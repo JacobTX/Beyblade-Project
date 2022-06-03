@@ -18,7 +18,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/jacob/Downloads/Eagle_flat.dae</uri>
+            <uri>/home/jacob/catkin_ws/src/beyblade/models/meshes/Eagle_flat.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -38,7 +38,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/jacob/Downloads/Eagle_flat.dae</uri>
+            <uri>/home/jacob/catkin_ws/src/beyblade/models/meshes/Eagle_flat.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
