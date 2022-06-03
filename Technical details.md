@@ -30,3 +30,7 @@ Spawning **Top3**
 ```
 <node name="spawner" pkg="gazebo_ros" type="spawn_model" args="-file /home/jacob/model_editor_models/Top3/model.sdf -sdf -x 0.0 -y 0.0 -z 1.0 -R 0.1 -model beyblade" />
 ```
+
+## Rigidly fixing a link to the world
+
+[Link](https://classic.gazebosim.org/tutorials?tut=ros_urdf)
