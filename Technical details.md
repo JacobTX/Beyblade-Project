@@ -1,5 +1,7 @@
 # Technical details
 
+## Simulation aspects 
+
 Currently the Beyblade is modelled as a cone.
 
 ### Applying force/torque on a link
