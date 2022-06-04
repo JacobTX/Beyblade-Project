@@ -34,3 +34,7 @@ Spawning **Top3**
 ## Rigidly fixing a link to the world
 
 [Link](https://classic.gazebosim.org/tutorials?tut=ros_urdf)
+
+## Physics parameters
+
+[Link](https://classic.gazebosim.org/tutorials?tut=physics_params&cat=physics)
