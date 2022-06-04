@@ -39,6 +39,10 @@ Spawning **Top3**
 
 [Link](https://classic.gazebosim.org/tutorials?tut=physics_params&cat=physics)
 
+### Aerodynamics
+
+[Link](https://classic.gazebosim.org/tutorials?tut=aerodynamics&cat=physics)
+
 ### Convert CAD model in Fusion360 to URDF
 
 [How to install Fusion2URDF Plugin || Use Autodesk Fusion 360 designs in ROS Simulation as URDF](https://www.youtube.com/watch?v=TitHYg-5_j8&t=244s&ab_channel=PranshuTople)
