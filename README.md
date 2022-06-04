@@ -18,7 +18,7 @@ Fun project involving the simulation of beyblades in Gazebo. Still ongoing with 
 1. More robust air resistance model 
 2. More robust friction model
 3. Better GUI
-4. Mechanisms - sword, burst, fangs, absorption, jaw
+4. Mechanisms - centrifugal blades, sword, burst, fangs, absorption, jaw
 5. Autonomous detection of ring-out and survivor finish using sensors in simulation
 6. Beyblades with sensors to detect other beys - "fighting intent"
 7. Vary mass distribution 
