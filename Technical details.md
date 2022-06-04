@@ -2,8 +2,6 @@
 
 ## Simulation aspects 
 
-Currently the Beyblade is modelled as a cone.
-
 ### Applying force/torque on a link
 
 Let the model be **Top3** and the link be **link_0**
