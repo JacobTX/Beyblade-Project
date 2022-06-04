@@ -35,6 +35,10 @@ Spawning **Top3**
 
 [Link](https://classic.gazebosim.org/tutorials?tut=ros_urdf)
 
+### Model a 4-bar linkage in SDFormat and URDF
+
+[Link](https://classic.gazebosim.org/tutorials?tut=kinematic_loop&cat=)
+
 ### Physics parameters
 
 [Link](https://classic.gazebosim.org/tutorials?tut=physics_params&cat=physics)
