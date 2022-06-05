@@ -51,6 +51,9 @@ Spawning **Top3**
 
 [How to install Fusion2URDF Plugin || Use Autodesk Fusion 360 designs in ROS Simulation as URDF](https://www.youtube.com/watch?v=TitHYg-5_j8&t=244s&ab_channel=PranshuTople)
 
+### SOLIDWORKS to Gazebo
+
+[[ROS Tutorials] How to open a solidworks model in gazebo](https://www.youtube.com/watch?v=T7X_p_KMwus&t=903s&ab_channel=TheConstruct)
 ## Mechanism design aspects
 
 1) Links
@@ -60,3 +63,6 @@ Spawning **Top3**
 5) Dampers
 6) Magnets 
 7) Hydraulics
+8) Joining techniques
+9) Modelling techniques
+10) Manufacturing techniques
