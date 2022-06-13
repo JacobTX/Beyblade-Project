@@ -58,13 +58,14 @@ Spawning **Top3**
 
 1) Links
 2) Gears
-3) DOF
-4) Springs
-5) Dampers
-6) Magnets 
-7) Hydraulics
-8) Joining techniques
-9) Modelling techniques
-10) Manufacturing techniques
+3) Inclined planes (refer F:D and F:S tips)
+4) DOF
+5) Springs
+6) Dampers
+7) Magnets 
+8) Hydraulics
+9) Joining techniques
+10) Modelling techniques
+11) Manufacturing techniques
 
 Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
