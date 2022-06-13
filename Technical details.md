@@ -64,8 +64,14 @@ Spawning **Top3**
 6) Dampers
 7) Magnets 
 8) Hydraulics
-9) Joining techniques
-10) Modelling techniques
-11) Manufacturing techniques
+
+"Science"
+1) Solid Mechanics
+2) Fluid Mechanics
+3) Structural Materials
+4) Thermodynamics
+5) Manufacturing and Joining 
+6) Modelling
+7) Dimensions (Tolerance, clearance)
 
 Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
