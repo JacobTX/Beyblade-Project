@@ -67,4 +67,4 @@ Spawning **Top3**
 9) Modelling techniques
 10) Manufacturing techniques
 
-Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tip?)
+Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
