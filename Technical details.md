@@ -70,8 +70,9 @@ Spawning **Top3**
 2) Fluid Mechanics
 3) Structural Materials
 4) Thermodynamics
-5) Manufacturing and Joining 
-6) Modelling
-7) Dimensions (Tolerance, clearance)
+5) Kinematics and Dynamics of Machines
+6) Manufacturing and Joining 
+7) Modelling
+8) Dimensions (Tolerance, clearance)
 
 Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
