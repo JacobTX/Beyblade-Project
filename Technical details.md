@@ -70,9 +70,11 @@ Spawning **Top3**
 2) Fluid Mechanics
 3) Structural Materials
 4) Thermodynamics
-5) Kinematics and Dynamics of Machines
+5) Kinematics and Dynamics of Machines - mass, COM, moments of inertia
 6) Manufacturing and Joining 
 7) Modelling
 8) Dimensions (Tolerance, clearance)
+
+And of course **cost** !
 
 Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
