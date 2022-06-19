@@ -19,7 +19,6 @@ class air_drag:
 
         self.name = name
        
-
         rospy.Timer(rospy.Duration(1.0/100.0),self.exert)
 
     def exert(self,event=None):
