@@ -13,7 +13,7 @@ Fun project involving the simulation of beyblades in Gazebo. Still ongoing with 
 2. Design beys with different tip geometries in **Fusion360**
 3. Test different tip geometries in **Gazebo**
 4. **GUI** created using **Tkinter** to launch beys with specific torques at required angles.
-5. Created a **simple centrifugal claw mechanism** and tested its working in **Gazebo**.
+5. Created **centrifugal mechanisms** such **slider claw** and **revolute claw** and tested their working in **Gazebo**.
 
 ## Things to do
 
@@ -32,6 +32,6 @@ Fun project involving the simulation of beyblades in Gazebo. Still ongoing with 
 2. Beys do not slow down and stop in a realistic way
 3. Friction not working properly (Torsional friction not a function of given tip geometry but needs to be set manually)
 4. RTF reduces as number of beys increase
-
+5. Problems when more than 2 joints (revolute or slider) in a beyblade
 
 
