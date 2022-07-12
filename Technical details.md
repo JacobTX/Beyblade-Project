@@ -56,25 +56,31 @@ Spawning **Top3**
 [[ROS Tutorials] How to open a solidworks model in gazebo](https://www.youtube.com/watch?v=T7X_p_KMwus&t=903s&ab_channel=TheConstruct)
 ## Mechanism design aspects
 
-1) Links
-2) Gears
-3) Inclined planes (refer F:D and F:S tips)
-4) DOF
-5) Springs
-6) Dampers
-7) Magnets 
-8) Hydraulics
+**SEACAM**
 
-"Science"
-1) Solid Mechanics
-2) Fluid Mechanics
-3) Structural Materials
-4) Thermodynamics
-5) Kinematics and Dynamics of Machines - mass, COM, moments of inertia
-6) Manufacturing and Joining 
-7) Modelling
-8) Dimensions (Tolerance, clearance)
-
-And of course **cost** !
-
-Need to make centrifugal mechanisms **one-way** (maybe using springs like in F:D and F:S tips?)
+<ol>
+<li>Science
+ <ol>
+ <li> Solid Mechanics, Structural Materials
+ <li> Fluid Mechanics, Thermodynamics, Heat transfer
+ <li> Kinematics and Dynamics of Machines 
+  <ol>
+   <li> Mass, COM, Moments of inertia
+   <li> Links, Gears
+   <li> Inclined planes (refer F:D and F:S tips), Springs, Dampers
+   <li> Magnets / Electromagnetics
+   <li> Pneumatics and Hydraulics
+   <li> DOF
+  </ol>
+ <li> Common sense 
+  <ol>
+   <li> Geometric constraints
+   <li>Weight
+  </ol>
+ </ol>
+<li> Ergonomics
+<li> Aesthetic
+<li> Cost
+<li> Assembly - Joining techniques(adhesive, fasteners), Ease, Tolerance, Clearance
+<li> Manufacturability 
+</ol>
