@@ -33,5 +33,12 @@ Fun project involving the simulation of beyblades in Gazebo. Still ongoing with 
 3. Friction not working properly (Torsional friction not a function of given tip geometry but needs to be set manually)
 4. RTF reduces as number of beys increase
 5. Problems when more than 2 joints (revolute or slider) in a beyblade
+6. Contact-related issues (between components in a mechanism like F:D, between 2 beys)
+
+Many of these issues can be traced to either one of the 2 - **physics** or **simulator**
+
+Simulator settings might have to be adjusted properly (factors such as friction, collision, etc).
+
+Physics aspects such as moments of inertia have to be considered as well.
 
 
