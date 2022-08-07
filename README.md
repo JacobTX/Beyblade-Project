@@ -41,4 +41,6 @@ Simulator settings might have to be adjusted properly (factors such as friction,
 
 Physics aspects such as moments of inertia have to be considered as well.
 
+Broad classification of problems - friction, contact, inertias
+
 
