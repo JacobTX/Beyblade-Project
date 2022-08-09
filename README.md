@@ -50,6 +50,12 @@ When CAD Models are converted to urdf format using fusion2urdf, the moments of i
 
 However, contact and friction related issues still persist. Also, the moments of inertia need to be considered carefully beforehand.
 
+**Insight on residual bouncing**
+
+When the value of **(Given moment of inertia)/(Moment of inertia assuming uniform mass distribution)** is low then the object does not "bounce" when it collides with the ground. Otherwise, it tends to show residual bouncing behaviour (even when coeff of restitution is 0).
+
+So residual bouncing behaviour can be reduced by reducing the given moment of inertia, but this contradicts with the hack in the Problem 5 update. Thus, there exists a tradeoff for now.
+
 **About F:D and F:S**
 
 F:D and F:S involve kinematic loops between the tip, base_link and wing_1 or wing_2 which leads to issues. If the joint between wing_1/wing_2 and tip is removed and the mechanism is allowed to work based on just contact, it barely works but contact related issues arise.
