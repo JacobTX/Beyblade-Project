@@ -59,3 +59,5 @@ So residual bouncing behaviour can be reduced by reducing the given moment of in
 **About F:D and F:S**
 
 F:D and F:S involve kinematic loops between the tip, base_link and wing_1 or wing_2 which leads to issues. If the joint between wing_1/wing_2 and tip is removed and the mechanism is allowed to work based on just contact, it barely works but contact related issues arise.
+
+On implementing the splitting method to create kinematic loops, the tip only works when the **selfCollide** tag of every part is set to zero (even then after some time, the rotation of the tip becomes unstable and the tip breaks apart)
