@@ -76,7 +76,7 @@ Spawning **Top3**
   </ol>
  <li> Common sense 
   <ol>
-   <li> Geometric constraints
+   <li> Geometric constraints (size, etc)
    <li>Weight
   </ol>
  </ol>
