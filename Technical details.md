@@ -56,7 +56,7 @@ Spawning **Top3**
 [[ROS Tutorials] How to open a solidworks model in gazebo](https://www.youtube.com/watch?v=T7X_p_KMwus&t=903s&ab_channel=TheConstruct)
 ## Mechanism design aspects
 
-**Documentation** and **Version Control** while designing
+**Documentation** and **Version Control** are important while designing for large **scale** and **complexity**
 
 **SEACAM**
 
